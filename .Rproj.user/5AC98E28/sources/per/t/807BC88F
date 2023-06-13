@@ -1,0 +1,33 @@
+{
+    "id": "807BC88F",
+    "path": "~/GitHub/flatiron-technical-test/output/sam-hillman-techtest.qmd",
+    "project_path": "output/sam-hillman-techtest.qmd",
+    "type": "quarto_markdown",
+    "hash": "637195023",
+    "contents": "",
+    "dirty": false,
+    "created": 1686670985803.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "9,416",
+        "scrollLine": "0",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "2:0",
+        "docOutlineSize": "86"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1686671157,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1686671157556,
+    "read_only": false,
+    "read_only_alternatives": []
+}
