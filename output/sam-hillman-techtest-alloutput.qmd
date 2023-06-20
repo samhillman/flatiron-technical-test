@@ -5,6 +5,8 @@ format: html
 editor: visual
 ---
 
+Please also see https://github.com/samhillman/flatiron-technical-test for full code
+
 ## Introduction to the problem
 
 A cancer clinic wants to understand how four antineoplastic (e.g., anti-cancer) drugs are being given. Drugs A and B are chemotherapy drugs (sometimes given in combination) and Drugs C and D are immunotherapy drugs. The clinic has provided us with two datasets: one gives diagnoses by patient and the other dataset gives treatment dates for these patients for the drugs of interest. None of the patients in this cohort have died to date, and no data is missing.
