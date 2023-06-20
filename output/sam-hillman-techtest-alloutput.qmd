@@ -1,11 +1,11 @@
 ---
 title: "flatiron-technical-test"
 author: "Sam Hillman"
-format: html
-editor: visual
+format: pdf
+editor: source
 ---
 
-Please also see https://github.com/samhillman/flatiron-technical-test for full code
+Please also see <https://github.com/samhillman/flatiron-technical-test> for full code and shorter, presentation-like versions of this output (I've been advised to stick to one file for upload through the greenhouse.io platform, so I've included the version with full code output too. In a real document this would be hidden from the end-user).
 
 ## Introduction to the problem
 
